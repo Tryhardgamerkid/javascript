@@ -1,0 +1,14 @@
+animation: MySlide
+Animation-diration: 5s;
+{
+@keyframes MySlide{
+from{margin-left: 100%;}
+to{margin-left: 0%;}
+}
+h1 {
+    width: 250px;
+    height: 250px;
+    background: green;
+    text-align: center;
+}
+}
